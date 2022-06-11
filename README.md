@@ -23,7 +23,7 @@ This project uses the Model-View-Controller (MVC) paradigm to create a blog-styl
 ![](images/Screenshot-1.png)
 
 ## Usage
-The application is deployed on Heroku at 
+The application is deployed on Heroku at https://blooming-inlet-06267.herokuapp.com/login
 
 Visit the website on Heroku. You can view posts and visit links as a visitor, create your own account, and as an authenticated user you can add your own posts and comment on other posts as well. You can edit titles and content or delete your own posts as well. You can also update your username, email, and password.
 
